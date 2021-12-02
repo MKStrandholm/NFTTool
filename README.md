@@ -1,6 +1,9 @@
 # Python Pixel NFT Tool
 A modified version of the open-source BitBirds python code that I used to generate a sample NFT collection.
 
+# ! NOTE !
+In order for this script to work, a folder named 'minimos' is required as that folder is hardcoded for the output. Create a new folder called 'minimos' in the root folder and it should generate the images as intended.
+
 # What does it do?
 In essence, this tool utilizes the core components of the BitBirds code in order to generate a pixel art image using a matrix of RGB values. However, I wanted to further customize it by creating 'layers' that can be generated independently of one another based on different odds.
 
